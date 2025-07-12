@@ -22,6 +22,8 @@ A project submitted for **Odoo Hackathon '25**.
 |Farhan                         |   farhanamd00@gmail.com   |
 ------------------------------------------------------------
 
+Video link  : *https://drive.google.com/file/d/14C1_a4K6HewHIFb3J46kGlAJTPQlYEW9/view?usp=drivesdk*
+
 #Login Page
 ![WhatsApp Image 2025-07-12 at 17 27 39_0abc2a0f](https://github.com/user-attachments/assets/719cd523-49b5-4be6-beb0-d7c4bb95ead7)
 
