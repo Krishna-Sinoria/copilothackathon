@@ -14,11 +14,11 @@ A project submitted for **Odoo Hackathon '25**.
 
 ## 👥 Team Members
 
-| Name                      | Email Address           |
-|-------------------------- |-------------------------|
- Krishna Sinoria              krishnasinoria@gmail.com
- Syed Mohammad Abbas Rizvi    abbasfzd118@gmail.com
- Praneet Rai                  praneetlu06@gmail.com
- Farhan                       farhanamd00@gmail.com
--------------------------------------------------------
+| Name                          | Email Address             |
+|-------------------------------|-------------------------  |
+|Krishna Sinoria                |  krishnasinoria@gmail.com |
+|Syed Mohammad Abbas Rizvi      |   abbasfzd118@gmail.com   |
+|Praneet Rai                    |   praneetlu06@gmail.com   |
+|Farhan                         |   farhanamd00@gmail.com   |
+------------------------------------------------------------
 
