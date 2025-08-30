@@ -8,7 +8,7 @@ A project submitted for **Copilot Hackothon'25**.
 
 ## ✅ Selected Problem Statement
 
-**Problem Statement 1** — *Skill Swap Platform*
+**The World of 2070** — *Skill Swap Platform*
 
 ---
 
