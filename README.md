@@ -1,8 +1,8 @@
-# odoohackathon
+# copilothackathon
 
 # 🔁 Skill Swap Platform
 
-A project submitted for **Odoo Hackathon '25**.
+A project submitted for **Copilot Hackothon'25**.
 
 ---
 
@@ -18,7 +18,6 @@ A project submitted for **Odoo Hackathon '25**.
 |-------------------------------|-------------------------  |
 |Krishna Sinoria                |  krishnasinoria@gmail.com |
 |Syed Mohammad Abbas Rizvi      |   abbasfzd118@gmail.com   |
-|Praneet Rai                    |   praneetlu06@gmail.com   |
 |Farhan                         |   farhanamd00@gmail.com   |
 ------------------------------------------------------------
 
