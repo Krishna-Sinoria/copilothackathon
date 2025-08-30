@@ -1,4 +1,4 @@
-# copilothackathon
+# Copilot Hackathon
 
 # 🔁 Skill Swap Platform
 
